@@ -1,0 +1,14 @@
+name: SpawnSystem
+version: '1.0'
+main: de.itsuhr.spawnSystem.SpawnSystem
+api-version: '1.20'
+authors: [ ItsUhr ]
+description: Das ist ein Spawn System.
+website: github.com/itsuhr
+commands:
+  spawn:
+    description: damit kannst du dich zum Spawn teleportieren.
+    usage: /setspawn
+  setspawn:
+    description: damit kannst du den Spawn setzen.
+    usage: /setspawn

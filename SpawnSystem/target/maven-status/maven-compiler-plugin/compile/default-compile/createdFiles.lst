@@ -1,0 +1,9 @@
+de\itsuhr\spawnSystem\commands\SpawnCommand$1.class
+de\itsuhr\spawnSystem\listener\JoinListener.class
+de\itsuhr\spawnSystem\SpawnSystem.class
+de\itsuhr\spawnSystem\system\Data.class
+de\itsuhr\spawnSystem\system\LoadMessages.class
+de\itsuhr\spawnSystem\utils\MessageLoader.class
+de\itsuhr\spawnSystem\listener\RespawnListener.class
+de\itsuhr\spawnSystem\commands\SpawnCommand.class
+de\itsuhr\spawnSystem\commands\SetspawnCommand.class
